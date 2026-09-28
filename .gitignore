@@ -1,0 +1,7 @@
+outputs/pred_A2B/
+outputs/pred_B2A/
+outputs/images.zip
+checkpoints/
+*.pt
+data/
+kaggle_download/
