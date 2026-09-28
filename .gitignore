@@ -5,3 +5,5 @@ checkpoints/
 *.pt
 data/
 kaggle_download/
+
+__pycache__/
